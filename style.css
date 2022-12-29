@@ -19,9 +19,13 @@ article {
   padding: 50px 0;
 }
 
+header div nav a {
+  padding:0 20px 0 20px
+}
+
 article div,
 header div,
-main div article section header{
+main div article h2 {
   text-align: center;
   width: 100%;
 }
