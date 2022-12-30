@@ -25,7 +25,8 @@ header div nav a {
 
 article div,
 header div,
-main div article h2 {
+main div article h2,
+footer {
   text-align: center;
   width: 100%;
 }
